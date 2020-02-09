@@ -5,3 +5,5 @@
 .idea/modules.xml
 .idea/vcs.xml
 .idea/visitsagme.iml
+parser.py
+words.txt
